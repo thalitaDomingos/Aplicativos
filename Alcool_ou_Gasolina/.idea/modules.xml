@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Alcool_ou_Gasolina.iml" filepath="$PROJECT_DIR$/.idea/modules/Alcool_ou_Gasolina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Alcool_ou_Gasolina.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Alcool_ou_Gasolina.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Alcool_ou_Gasolina.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Alcool_ou_Gasolina.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Alcool_ou_Gasolina.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Alcool_ou_Gasolina.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Alcool_ou_Gasolina.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Alcool_ou_Gasolina.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
